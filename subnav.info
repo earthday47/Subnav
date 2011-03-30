@@ -1,0 +1,5 @@
+; $Id$
+name = Subnavigation Block
+description = Creates a block displaying the links and sub-links for the active menu, skipping the primary level of links.
+core = 6.x
+package = The Strong
